@@ -13,5 +13,8 @@
 
 <body>
     <?php include '../../components/nav.component.php'; ?>
+
+    <h1>Gallery</h1>
+    <p class="text">Here are some of the pictures from our cycling events!</p>
 </body>
 </html>
