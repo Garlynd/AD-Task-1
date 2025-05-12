@@ -23,6 +23,12 @@ $bikes = [
 </head>
 <body>
     <?php include 'components/nav.component.php'; ?>
+    
+    <section class="hero">
+    <div class="hero-overlay">
+        <h1>Where Passion Meets Pavement</h1>
+    </div>
+</section>
 
     <h1>Welcome to Our Cycling Team</h1>
 
