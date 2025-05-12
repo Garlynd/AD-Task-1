@@ -22,5 +22,7 @@
         <img src="../../assets/img/cycling2.jpg" alt="Cycling Event 2">
         <img src="../../assets/img/cycling3.webp" alt="Cycling Event 3">
     </div>
+
+    <?php include '../../components/footer.component.php'; ?>
 </body>
 </html>
