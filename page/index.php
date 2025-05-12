@@ -16,5 +16,11 @@
 
     <h1>Gallery</h1>
     <p class="text">Here are some of the pictures from our cycling events!</p>
+    
+    <div class="gallery">
+        <img src="../../assets/img/cycling1.jpeg" alt="Cycling Event 1">
+        <img src="../../assets/img/cycling2.jpg" alt="Cycling Event 2">
+        <img src="../../assets/img/cycling3.webp" alt="Cycling Event 3">
+    </div>
 </body>
 </html>
