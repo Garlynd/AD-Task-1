@@ -28,16 +28,17 @@ $bikes = [
 <body>
     <?php include 'components/nav.component.php'; ?>
 
+    <?php
+        include 'utils/Message.util.php';
+    ?>
+    <h1><?php echo $welcomeMessage; ?></h1>
+    
     <section class="hero">
     <div class="hero-overlay">
         <h1>Where Passion Meets Pavement</h1>
     </div>
 </section>
 
-    <?php
-        include 'utils/Message.util.php';
-    ?>
-    <h1><?php echo $welcomeMessage; ?></h1>
 
     <h2>Meet Our Riders</h2>
     <div class="gallery">
