@@ -19,11 +19,15 @@ $bikes = [
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Ineos Cycling Team</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Merienda:wght@300..900&display=swap');
+    </style>
 </head>
 <body>
     <?php include 'components/nav.component.php'; ?>
-    
+
     <section class="hero">
     <div class="hero-overlay">
         <h1>Where Passion Meets Pavement</h1>
