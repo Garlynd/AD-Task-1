@@ -34,7 +34,10 @@ $bikes = [
     </div>
 </section>
 
-    <h1>Welcome to Our Cycling Team</h1>
+    <?php
+        include 'utils/Message.util.php';
+    ?>
+    <h1><?php echo $welcomeMessage; ?></h1>
 
     <h2>Meet Our Riders</h2>
     <div class="gallery">
