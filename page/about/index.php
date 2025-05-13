@@ -12,6 +12,7 @@
 </head>
 
 <body>
+    <?php include '../../components/nav.component.php'; ?>
     
 </body>
 </html>
