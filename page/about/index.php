@@ -32,5 +32,8 @@
     </p>
 
     <br><a class="button-link" href="/AD-Task-1/index.php">← Back to Home</a>
+    <?php include '../../components/footer.component.php'; ?>
+    <script src="../../assets/js/script.js"></script>
+    <script src="../../assets/js/about.js"></script>
 </body>
 </html>
