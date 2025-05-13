@@ -30,5 +30,7 @@
         We now train together, compete in local races, and organize community events to promote healthy, active living.
         <br>Our mission is simple: *Ride hard. Ride together. Ride with purpose.*
     </p>
+
+    <br><a class="button-link" href="/AD-Task-1/index.php">← Back to Home</a>
 </body>
 </html>
