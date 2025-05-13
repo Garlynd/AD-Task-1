@@ -102,13 +102,22 @@ Description of the project in details.
 AD-Task-1
 └─ assets
 |   └─ css
-|   |   └─ name.css
+|   |   └─ style.css
 |   └─ img
-|   |   └─ name.jpeg/.jpg/.webp/.png
+|   |   └─ aeroad.jpg
+|   |   └─ emonda.webp
+|   |   └─ Julian.jpg
+|   |   └─ Lance.webp
+|   |   └─ Mark.jpg
+|   |   └─ Peter.jpg
+|   |   └─ propel.jpg
+|   |   └─ road.jpg
+|   |   └─ tarmac.jpg
 |   └─ js
-|       └─ name.js
+|       └─ script.js
 └─ components
-|   └─ name.component.php
+|   └─ footer.component.php
+|   └─ nav.component.php
 └─ pages
 |  └─ pageName
 |     └─ assets
@@ -120,7 +129,7 @@ AD-Task-1
 |     |     └─ name.js
 |     └─ index.php
 └─ utils
-|   └─ Name.utils.php
+|   └─ Message.util.php
 └─ index.php
 └─ readme.md
 ```
