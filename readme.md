@@ -99,7 +99,7 @@ Description of the project in details.
 10. File Structure to follow below.
 
 ```
-AD-ProjectName
+AD-Task-1
 └─ assets
 |   └─ css
 |   |   └─ name.css
