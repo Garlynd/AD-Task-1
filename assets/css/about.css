@@ -1,25 +1,43 @@
-.gallery {
-    display: flex;
-    gap: 20px;
-    flex-wrap: wrap;
-    justify-content: center;
-    padding: 20px;
+body {
+    background-color: #eaf2f8;
 }
 
-.gallery img {
-    width: 500px;
-    height: 250px;
-    object-fit: cover;
-    border-radius: 10px;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
+p {
+    font-size: 17px;
+    line-height: 1.8;
+    margin: 0 auto 20px auto;
+    max-width: 700px;
+    padding: 0 20px;
 }
 
-.gallery img:hover {
-    transform: scale(1.05);
-    box-shadow: 0 6px 16px rgba(0,0,0,0.3);
+h2 {
+    margin-top: 40px;
+}
+
+ul {
+    margin: 0 auto;
 }
 
 .text {
     font-family: "Merienda", cursive;
+}
+
+.hero {
+    background-image: url('../img/team.jpg'); /* Ensure image exists */
+    background-size: cover;
+    background-position: center;
+    height: 85vh;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hero-overlay {
+    background-color: rgba(0, 0, 0, 0.5); /* Optional dark overlay for contrast */
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
