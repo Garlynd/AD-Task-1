@@ -15,9 +15,14 @@
     <?php include '../../components/nav.component.php'; ?>
     
     <section class="hero">
-    <div class="hero-overlay">
-        <h1>About Our Cycling Team</h1>
-    </div>
-</section>
+        <div class="hero-overlay">
+            <h1>About Our Cycling Team</h1>
+        </div>
+    </section>
+
+    <br><br><p class="text">
+        Our cycling team, the Ineos Riders, was born in 2021 when four passionate cyclists — Mark, Peter, Lance, and Julian — met at a local charity ride.  
+        What started as a casual weekend meetup quickly turned into a dedicated team with a shared goal: to push limits, explore new routes, and inspire others to ride.
+    </p>
 </body>
 </html>
