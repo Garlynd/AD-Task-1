@@ -128,17 +128,18 @@ AD-Task-1
 |  |  |  └─ js
 |  |  |     └─ about.js
 |  |  └─ index.php
-|  └─ pageName
+|  └─ gallery
 |     └─ assets
 |     |  └─ css
-|     |  |  └─ name.css
+|     |  |  └─ gallery.css
 |     |  └─ img
-|     |  |  └─ name.jpeg/.jpg/.webp/.png
+|     |  |  └─ cycling1.jpeg
+|     |  |  └─ cycling2.jpg
+|     |  |  └─ cycling3.webp
 |     |  └─ js
-|     |     └─ name.js
 |     └─ index.php
 └─ utils
-|   └─ Message.util.php
+|   └─ Message.utils.php
 └─ index.php
 └─ readme.md
 ```
