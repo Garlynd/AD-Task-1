@@ -118,7 +118,16 @@ AD-Task-1
 └─ components
 |   └─ footer.component.php
 |   └─ nav.component.php
-└─ pages
+└─ page
+|  └─ about
+|  |  └─ assets
+|  |  |  └─ css
+|  |  |  |  └─ about.css
+|  |  |  └─ img
+|  |  |  |  └─ team.jpg
+|  |  |  └─ js
+|  |  |     └─ about.js
+|  |  └─ index.php
 |  └─ pageName
 |     └─ assets
 |     |  └─ css
