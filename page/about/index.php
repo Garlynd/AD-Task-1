@@ -14,5 +14,10 @@
 <body>
     <?php include '../../components/nav.component.php'; ?>
     
+    <section class="hero">
+    <div class="hero-overlay">
+        <h1>About Our Cycling Team</h1>
+    </div>
+</section>
 </body>
 </html>
