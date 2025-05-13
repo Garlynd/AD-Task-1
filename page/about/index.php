@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>About Our Cycling Team</title>
     <link rel="stylesheet" href="../../assets/css/style.css">
-    <link rel="stylesheet" href="../../page/assets/css/about.css">
+    <link rel="stylesheet" href="../../page/about/assets/css/about.css">
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Merienda:wght@300..900&display=swap');
     </style>
@@ -34,6 +34,6 @@
     <br><a class="button-link" href="/AD-Task-1/index.php">← Back to Home</a>
     <?php include '../../components/footer.component.php'; ?>
     <script src="../../assets/js/script.js"></script>
-    <script src="../../page/assets/js/about.js"></script>
+    <script src="../../page/about/assets/js/about.js"></script>
 </body>
 </html>
