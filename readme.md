@@ -57,7 +57,7 @@
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
 
-Description of the project in details.
+The website is about a professional cycling team and their gear. The Ineos Cycling Team website features high-performance road bikes, essential gear, and the team's history and milestones. Visitors can explore the gear list with details such as name, type, and price, and learn about the team’s journey from local riders to competitive champions.
 
 ### Key Components
 
