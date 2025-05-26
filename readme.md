@@ -11,10 +11,6 @@
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">AD-Task-1</h3>
 </div>
-<!-- TODO: Make a short description -->
-<div align="center">
-  Short Description. (Optional)
-</div>
 
 <br />
 
@@ -68,8 +64,9 @@ Description of the project in details.
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
 
-- Authentication & Authorization
-- CRUD Operations for Invetory System
+- Page Navigation
+- Looping
+- UI Styling
 
 ### Technology
 
@@ -149,9 +146,7 @@ AD-Task-1
 
 <!-- TODO: Add References -->
 
-| Title        | Purpose                                                                       | Link          |
-| ------------ | ----------------------------------------------------------------------------- | ------------- |
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Title        | Purpose                                                                       | Link                     |
+| ------------ | ----------------------------------------------------------------------------- | ------------------------ |
+| Google       | For getting pictures that were used as assets                                 | https://google.com       |
+| ChatGPT      | For learning PHP best practices, troubleshooting, and improving code.         | https://chat.openai.com/ |
