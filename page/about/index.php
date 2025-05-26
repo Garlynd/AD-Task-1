@@ -31,7 +31,7 @@
         <br>Our mission is simple: *Ride hard. Ride together. Ride with purpose.*
     </p>
 
-    <br><a class="button-link" href="/AD-Task-1/index.php">← Back to Home</a>
+    <br><a class="button-link" href="/../index.php">← Back to Home</a>
     <?php include '../../components/footer.component.php'; ?>
     <script src="../../assets/js/script.js"></script>
     <script src="../../page/about/assets/js/about.js"></script>
