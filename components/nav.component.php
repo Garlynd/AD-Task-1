@@ -1,6 +1,6 @@
 <nav>
-    <a href="/AD-Task-1/index.php">Home</a> |
-    <a href="/AD-Task-1/page/gallery/index.php">Gallery</a> |
-    <a href="/AD-Task-1/page/about/index.php">About</a>
+    <a href="/../index.php">Home</a> |
+    <a href="/../page/gallery/index.php">Gallery</a> |
+    <a href="/../page/about/index.php">About</a>
 </nav>
 <hr>
